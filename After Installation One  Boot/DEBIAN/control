@@ -1,0 +1,10 @@
+Package: com.cal0x.semiuntetheraiob
+Name: Semi Untethered AIOB
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Semi Untethered Jailbreak for iOS 7.1.x found by BlackGeek. After Installation reboot(one tethered boot need).
+Homepage: http://cal0x.com
+Maintainer: cal0x
+Author: cal0x
+Section: cal0x - MyRepoSpace.com
+Conflicts: com.evad3rs.evasi0n7

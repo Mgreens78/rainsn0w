@@ -1,0 +1,10 @@
+Package: com.cal0x.semiuntetherainb
+Name: Semi Untethered AINB
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Semi Untethered Jailbreak for iOS 7.1.x found by BlackGeek. After Installation run the command sh /bin/semi.sh
+Homepage: http://cal0x.com
+Maintainer: cal0x
+Author: cal0x
+Section: cal0x - MyRepoSpace.com
+Conflicts: com.evad3rs.evasi0n7
